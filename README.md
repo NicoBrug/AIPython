@@ -2,7 +2,7 @@
 
 
 ## ℹ️️ Description
-This project aims at building a framework dedicated to the implementation of artificial intelligence algorithms in Python. It is a base intended to be complex, you can use it to understand the functioning of frameworks such as Keras, or use it for your projects to develop your algorithms from scratch.
+
 
 ## 🔧 How to Use
 1. Clone the repo
